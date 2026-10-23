@@ -20,7 +20,7 @@ Software developer in **Accra, Ghana**. I build web and mobile apps for real bus
 
 **[GrantGuard AI](https://github.com/HOLYGRILL-7/GrantGuard_AI)**: AI tool that reads NGO grant agreements and pulls out every obligation and deadline, each traced back to its source clause. Team project, built with React, Express, Supabase and an LLM.
 
-**PoolUp**: React Native app for family savings pools, with Paystack payments.
+**PoolUp**: UI prototype for a family savings pool app in React Native. Group savings, contributions and discovery screens.
 
 **Sika**: AI-powered personal finance tracker in React Native.
 
